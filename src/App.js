@@ -1,14 +1,14 @@
 import React, { useState } from 'react'
 import './App.css'
 import ClockApp from './components/ClockApp';
-import PassGen from './components/PassGen';
+// import PassGen from './components/PassGen';
 
 
 const App = () => {
 
     return (
         <>
-        <PassGen />
+//         <PassGen />
         <ClockApp />
         </>
     )
